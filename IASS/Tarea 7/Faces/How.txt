@@ -1,0 +1,7 @@
+Neutral:  1 *
+Happy:    2
+Sad:      3 *
+Fear:     4
+Angry:    5 
+Disgust:  6
+
