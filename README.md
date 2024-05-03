@@ -5,6 +5,7 @@ This repository houses the different projects I have completed.
 
 ### Optimization
 
+I made this changes from my PC.
 
 
 ### Intelligent Analysis of Signals and Systems
