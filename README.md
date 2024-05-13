@@ -1,6 +1,6 @@
 # ProjectPortfolio
 
-This repository houses the different projects I have completed.
+This repository houses the different projects I have completed. 
 
 ## Python Projects
 
